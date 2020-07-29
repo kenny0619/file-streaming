@@ -1,0 +1,27 @@
+{
+  "name": "Basic-Cloud-File-Storage-System",
+  "version": "1.0.0",
+  "description": "SkillUp Africa Backend Project on Basic Cloud File Storage System",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon main",
+    "start": "node main",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenny0619/file-streaming.git"
+  },
+  "keywords": [],
+  "author": "Ibukunoluwa Kehinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenny0619/file-streaming/issues"
+  },
+  "homepage": "https://github.com/kenny0619/file-streaming#readme",
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+  }
+}
